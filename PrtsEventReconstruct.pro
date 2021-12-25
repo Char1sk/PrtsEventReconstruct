@@ -56,4 +56,7 @@ FORMS += \
 RESOURCES += \
     assets.qrc
 
+RC_FILE += \
+        icon.rc
+
 DISTFILES +=
