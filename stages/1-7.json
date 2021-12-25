@@ -1,0 +1,426 @@
+{
+    "sid": "1-7",
+    "name": "暴君",
+    "rows": 5,
+    "cols": 11,
+    "grids": [
+        {
+            "row": 0,
+            "col": 1,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 270,
+            "centery": 175
+        },
+        {
+            "row": 0,
+            "col": 2,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 380,
+            "centery": 175
+        },
+        {
+            "row": 0,
+            "col": 3,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 490,
+            "centery": 175
+        },
+        {
+            "row": 0,
+            "col": 4,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 610,
+            "centery": 190
+        },
+        {
+            "row": 0,
+            "col": 5,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 720,
+            "centery": 190
+        },
+        {
+            "row": 0,
+            "col": 6,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 835,
+            "centery": 190
+        },
+        {
+            "row": 0,
+            "col": 7,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 945,
+            "centery": 190
+        },
+        {
+            "row": 0,
+            "col": 8,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 1050,
+            "centery": 190
+        },
+        {
+            "row": 0,
+            "col": 9,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 1160,
+            "centery": 190
+        },
+        {
+            "row": 0,
+            "col": 10,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 1270,
+            "centery": 190
+        },
+        
+        {
+            "row": 1,
+            "col": 1,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 236,
+            "centery": 270
+        },
+        {
+            "row": 1,
+            "col": 2,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 376,
+            "centery": 292
+        },
+        {
+            "row": 1,
+            "col": 3,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 489,
+            "centery": 292
+        },
+        {
+            "row": 1,
+            "col": 4,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 601,
+            "centery": 292
+        },
+        {
+            "row": 1,
+            "col": 5,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 720,
+            "centery": 270
+        },
+        {
+            "row": 1,
+            "col": 6,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 838,
+            "centery": 270
+        },
+        {
+            "row": 1,
+            "col": 7,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 961,
+            "centery": 270
+        },
+        {
+            "row": 1,
+            "col": 8,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 1085,
+            "centery": 270
+        },
+        
+        {
+            "row": 2,
+            "col": 0,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 105,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 1,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 225,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 2,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 354,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 4,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 596,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 5,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 720,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 6,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 843,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 7,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 973,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 8,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 1091,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 9,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 1215,
+            "centery": 382
+        },
+        {
+            "row": 2,
+            "col": 10,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 1338,
+            "centery": 382
+        },
+        
+        {
+            "row": 3,
+            "col": 1,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 180,
+            "centery": 478
+        },
+        {
+            "row": 3,
+            "col": 2,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 337,
+            "centery": 495
+        },
+        {
+            "row": 3,
+            "col": 3,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 461,
+            "centery": 495
+        },
+        {
+            "row": 3,
+            "col": 4,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 585,
+            "centery": 495
+        },
+        {
+            "row": 3,
+            "col": 5,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 720,
+            "centery": 478
+        },
+        {
+            "row": 3,
+            "col": 6,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 849,
+            "centery": 478
+        },
+        {
+            "row": 3,
+            "col": 7,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 990,
+            "centery": 478
+        },
+        {
+            "row": 3,
+            "col": 8,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 1125,
+            "centery": 478
+        },
+        
+        {
+            "row": 4,
+            "col": 1,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 151,
+            "centery": 601
+        },
+        {
+            "row": 4,
+            "col": 2,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 292,
+            "centery": 601
+        },
+        {
+            "row": 4,
+            "col": 3,
+            "isUpper": true,
+            "isLower": false,
+            "canDeploy": true,
+            "centerx": 433,
+            "centery": 601
+        },
+        {
+            "row": 4,
+            "col": 4,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 585,
+            "centery": 618
+        },
+        {
+            "row": 4,
+            "col": 5,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 725,
+            "centery": 618
+        },
+        {
+            "row": 4,
+            "col": 6,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 860,
+            "centery": 618
+        },
+        {
+            "row": 4,
+            "col": 7,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 1000,
+            "centery": 618
+        },
+        {
+            "row": 4,
+            "col": 8,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": true,
+            "centerx": 1136,
+            "centery": 618
+        },
+        {
+            "row": 4,
+            "col": 9,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 1276,
+            "centery": 618
+        },
+        {
+            "row": 4,
+            "col": 10,
+            "isUpper": false,
+            "isLower": true,
+            "canDeploy": false,
+            "centerx": 1411,
+            "centery": 618
+        }
+    ]
+}

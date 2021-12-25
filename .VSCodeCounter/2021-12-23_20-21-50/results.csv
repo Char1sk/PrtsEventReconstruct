@@ -1,0 +1,27 @@
+"filename", "language", "C++", "CUDA C++", "Markdown", "JSON", "Python", "comment", "blank", "total"
+"d:\the_remote_city\Qt\PrtsEventReconstruct\bullet.cpp", "C++", 41, 0, 0, 0, 0, 15, 6, 62
+"d:\the_remote_city\Qt\PrtsEventReconstruct\bullet.h", "CUDA C++", 0, 33, 0, 0, 0, 1, 8, 42
+"d:\the_remote_city\Qt\PrtsEventReconstruct\enemies\1-7.json", "JSON", 0, 0, 0, 1232, 0, 0, 1, 1233
+"d:\the_remote_city\Qt\PrtsEventReconstruct\enemy.cpp", "C++", 110, 0, 0, 0, 0, 22, 10, 142
+"d:\the_remote_city\Qt\PrtsEventReconstruct\enemy.h", "CUDA C++", 0, 54, 0, 0, 0, 8, 12, 74
+"d:\the_remote_city\Qt\PrtsEventReconstruct\grid.cpp", "C++", 14, 0, 0, 0, 0, 0, 6, 20
+"d:\the_remote_city\Qt\PrtsEventReconstruct\grid.h", "CUDA C++", 0, 24, 0, 0, 0, 0, 7, 31
+"d:\the_remote_city\Qt\PrtsEventReconstruct\images\renaming.py", "Python", 0, 0, 0, 0, 6, 14, 4, 24
+"d:\the_remote_city\Qt\PrtsEventReconstruct\main.cpp", "C++", 18, 0, 0, 0, 0, 25, 9, 52
+"d:\the_remote_city\Qt\PrtsEventReconstruct\mainwindow.cpp", "C++", 63, 0, 0, 0, 0, 13, 13, 89
+"d:\the_remote_city\Qt\PrtsEventReconstruct\mainwindow.h", "CUDA C++", 0, 32, 0, 0, 0, 0, 8, 40
+"d:\the_remote_city\Qt\PrtsEventReconstruct\operator.cpp", "C++", 80, 0, 0, 0, 0, 6, 7, 93
+"d:\the_remote_city\Qt\PrtsEventReconstruct\operator.h", "CUDA C++", 0, 43, 0, 0, 0, 0, 11, 54
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagehelp.cpp", "C++", 12, 0, 0, 0, 0, 0, 3, 15
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagehelp.h", "CUDA C++", 0, 16, 0, 0, 0, 0, 7, 23
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagemenu.cpp", "C++", 60, 0, 0, 0, 0, 4, 11, 75
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagemenu.h", "CUDA C++", 0, 29, 0, 0, 0, 0, 10, 39
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagestage.cpp", "C++", 329, 0, 0, 0, 0, 75, 42, 446
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagestage.h", "CUDA C++", 0, 74, 0, 0, 0, 4, 15, 93
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagewelcome.cpp", "C++", 50, 0, 0, 0, 0, 13, 6, 69
+"d:\the_remote_city\Qt\PrtsEventReconstruct\pagewelcome.h", "CUDA C++", 0, 24, 0, 0, 0, 0, 8, 32
+"d:\the_remote_city\Qt\PrtsEventReconstruct\stages\1-7.json", "JSON", 0, 0, 0, 422, 0, 0, 4, 426
+"d:\the_remote_city\Qt\PrtsEventReconstruct\test.cpp", "C++", 4, 0, 0, 0, 0, 0, 3, 7
+"d:\the_remote_city\Qt\PrtsEventReconstruct\test.h", "CUDA C++", 0, 12, 0, 0, 0, 0, 5, 17
+"d:\the_remote_city\Qt\PrtsEventReconstruct\游戏说明.md", "Markdown", 0, 0, 10, 0, 0, 0, 1, 11
+"Total", "-", 781, 341, 10, 1654, 6, 200, 217, 3209
